@@ -199,4 +199,3 @@ if __name__ == "__main__":
             print(f"-> Excepción capturada en bloque principal de prueba: {ex}\n")
 
     print(" SIMULACIÓN FINALIZADA CON ÉXITO ")
-    print(" SIMULACIÓN FINALIZADA CON ÉXITO ")
